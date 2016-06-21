@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="www/lib/ionic/js/angular-ui/|**/*.min.js|**/node_modules/*|www/js/|**/bower_components/*|www/lib/ionic/js/|hooks/after_prepare/|www/lib/ionic/js/angular/" kind="src" path=""/>
+	<classpathentry excluding="**/*.min.js|**/node_modules/*|**/bower_components/*" kind="src" path="hooks/after_prepare"/>
+	<classpathentry excluding="**/*.min.js|**/node_modules/*|**/bower_components/*" kind="src" path="www/js"/>
+	<classpathentry excluding="angular/|**/*.min.js|**/node_modules/*|angular-ui/|**/bower_components/*" kind="src" path="www/lib/ionic/js"/>
+	<classpathentry excluding="**/*.min.js|**/node_modules/*|**/bower_components/*" kind="src" path="www/lib/ionic/js/angular"/>
+	<classpathentry excluding="**/*.min.js|**/node_modules/*|**/bower_components/*" kind="src" path="www/lib/ionic/js/angular-ui"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
